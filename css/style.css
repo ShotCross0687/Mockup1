@@ -1,0 +1,169 @@
+body{
+    font:15px/1.5 Arial, Helvetica, sans-serif;
+    padding: 0;
+    margin: 0;
+    background-color: #d1f0d6 ;
+    text-decoration: none;
+}
+
+.container{
+width: 80%;
+margin: auto;
+overflow: hidden;
+color: #ffffff;
+text-decoration: none;
+}
+
+.body{
+    color: #2e5628;
+    padding: 10px 600px 0 40px;
+    text-decoration: none;
+    margin-left: 70px;
+
+}
+
+header{
+    background: #2e5628 ;
+    color:#ffffff;
+    padding-top: 5px;
+    text-decoration: none;
+}
+
+header a{
+    color: #000000;
+    text-decoration: none;
+
+
+}
+
+header ul{
+    margin: 0;
+    padding: 0;
+}
+
+header li{
+    float: left;
+    display: inline;
+    padding: 0 20px 20px 20px;
+    text-decoration: none;
+    
+}
+
+header #branding{
+    float: left;
+    margin-top: 10px;
+    text-decoration: none;
+}
+
+header #branding h1{
+    margin: 0;
+    text-decoration: none;
+}
+
+header nav{
+    float:right;
+    margin-top: 5px;
+    text-decoration: none;
+}
+
+header .highlight{
+    color: #e2d81e;
+    font-weight: bold;
+    text-decoration: none;
+}
+
+#showcase{
+    min-height: 200px;
+
+    color: #2e5628;
+
+}
+
+#form {
+    margin-top: 15px; 
+    margin-left: 450px;
+    text-decoration: none;
+
+    
+}
+
+.boxes{
+    margin-top: 20px;
+    margin-left: 70px;
+}
+
+.box{
+    color: #000000;
+}
+
+.boxes .box{
+    float: left;
+    width: 30%;
+    padding: 10px;
+    text-align: center;
+    text-decoration: none;
+}
+
+.boxes .box img{
+    width: 200px;
+}
+
+footer{
+    padding: 20px;
+    margin-top: 20px;
+    color:#ffffff;
+    background: #2e5628;
+    text-align: center;
+    font-size: 16px;
+}
+
+#form input[type="text"]{
+    padding: 4px;
+    height: 25px;
+    width: 250px;
+}
+
+#button_1{
+    background: #2e5628;
+    color: #ffffff;
+    text-align: center;
+    border-color: #ffffff;
+    padding-left: 20px;
+    padding-right: 20px;
+    border-radius: 12px;
+    position: relative; top: -40px;left: 25px;
+    height: 40px ;
+    font-weight: bold;
+    font-size: 20px;
+    
+}
+
+#button_2{
+    background: #ffffff;
+    color: #2e5628;
+    text-align: center;
+    border: 0;
+    padding-left: 20px;
+    padding-right: 20px;
+    border-radius: 12px;
+    position: relative; top: -40px;
+    height: 40px ;
+    font-weight: bold;
+    font-size: 20px;
+    
+}
+
+#button_3{
+    background: #e2d81e;
+    color: #000000;
+    text-align: center;
+    border: 0;
+    padding-left: 20px;
+    padding-right: 20px;
+    border-radius: 12px;
+    position: relative; left: 105px;
+    height: 40px ;
+    font-weight: bold;
+    font-size: 20px;
+    
+}
